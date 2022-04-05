@@ -1,0 +1,864 @@
+fileFormatVersion: 2
+guid: e71d312ce01e68b4ab90d1c43c7d9599
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: wordBubbles_0
+  - first:
+      213: 21300002
+    second: wordBubbles_1
+  - first:
+      213: 21300004
+    second: wordBubbles_2
+  - first:
+      213: 21300006
+    second: wordBubbles_4
+  - first:
+      213: 21300008
+    second: wordBubbles_5
+  - first:
+      213: 21300010
+    second: wordBubbles_6
+  - first:
+      213: 21300012
+    second: wordBubbles_7
+  - first:
+      213: 21300014
+    second: wordBubbles_9
+  - first:
+      213: 21300016
+    second: wordBubbles_10
+  - first:
+      213: 21300018
+    second: wordBubbles_11
+  - first:
+      213: 21300020
+    second: wordBubbles_14
+  - first:
+      213: 21300022
+    second: wordBubbles_15
+  - first:
+      213: 21300024
+    second: wordBubbles_16
+  - first:
+      213: 21300026
+    second: wordBubbles_17
+  - first:
+      213: 21300028
+    second: wordBubbles_18
+  - first:
+      213: 21300030
+    second: wordBubbles_20
+  - first:
+      213: 21300032
+    second: wordBubbles_21
+  - first:
+      213: 21300034
+    second: wordBubbles_23
+  - first:
+      213: 21300036
+    second: wordBubbles_24
+  - first:
+      213: 21300038
+    second: wordBubbles_25
+  - first:
+      213: 21300040
+    second: wordBubbles_27
+  - first:
+      213: 21300042
+    second: wordBubbles_28
+  - first:
+      213: 21300044
+    second: wordBubbles_30
+  - first:
+      213: 21300046
+    second: wordBubbles_31
+  - first:
+      213: 21300048
+    second: wordBubbles_32
+  - first:
+      213: 21300050
+    second: wordBubbles_34
+  - first:
+      213: 21300052
+    second: wordBubbles_35
+  - first:
+      213: 21300054
+    second: wordBubbles_36
+  - first:
+      213: 21300056
+    second: wordBubbles_39
+  - first:
+      213: 21300058
+    second: wordBubbles_40
+  - first:
+      213: 21300060
+    second: wordBubbles_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wordBubbles_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3768
+        width: 342
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd33f8c25a2e334b84b9adf0c938066
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wordBubbles_1
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 3789
+        width: 342
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2188dc246b2d54d94e1ad838fa563d
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wordBubbles_2
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 3753
+        width: 421
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3369ce20a4c8a4ca8ff14a0d46054c
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wordBubbles_4
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 3624
+        width: 505
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e8c18cc7b510d4488757dc9603413d
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wordBubbles_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 3443
+        width: 336
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281f5c7d6560c1a479779487c04b39ff
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wordBubbles_6
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 3447
+        width: 332
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785f762bfb794d74891d387e58a294d9
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wordBubbles_7
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 3420
+        width: 420
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce7d0a93e20132478d5ebd53e7f8f6b
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wordBubbles_9
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 3183
+        width: 351
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63f74b9af15c084ba36f6aaa8cca93f
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wordBubbles_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2993
+        width: 333
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0048cf015e8568649858d68fae7320ab
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wordBubbles_11
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 3015
+        width: 332
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3f081b9c6980d4f80de63ade24c997
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wordBubbles_14
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 3001
+        width: 420
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1682726208093a542b91b9dfe8f41ec1
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wordBubbles_15
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 2921
+        width: 460
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7e4a908379fe94cb02fa29b536b038
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wordBubbles_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2639
+        width: 345
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39d8e1426124dd48b49e2fef3bdf8ff
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wordBubbles_17
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2648
+        width: 344
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a6bc2f0dc0a7c48a61e65c61d243c7
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wordBubbles_18
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 2640
+        width: 422
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e43ea377e1e16468ed2935985f80f1
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wordBubbles_20
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 2663
+        width: 472
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62981dc447a6ad945b95a137c07cc052
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wordBubbles_21
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2210
+        width: 420
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32595798f7ac7f41b58864fb8340386
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wordBubbles_23
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2247
+        width: 343
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638f40bfd7d28fe42813c53bf2b3ff74
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wordBubbles_24
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 2227
+        width: 343
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132bdcad55565d046b6492af4fabe9cb
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wordBubbles_25
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 2289
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f63f95b45260f74f86cb9da912656c2
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wordBubbles_27
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1907
+        width: 303
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d4ab1647a61dc409c3ca9610defbbf
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wordBubbles_28
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1875
+        width: 422
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc8cefc3c8c1d240876c19bb0f650d9
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wordBubbles_30
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1903
+        width: 335
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5a0bea93bd51d48b671da465ea7da7
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wordBubbles_31
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1899
+        width: 330
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b091f6247c8a7d6459cf18f699f6d01e
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wordBubbles_32
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1480
+        width: 420
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09a403fbdd515442b7786920b1bfa39
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wordBubbles_34
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1493
+        width: 332
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a7180b2028d2545954bdbc8a538b43
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wordBubbles_35
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1471
+        width: 330
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e061788a587b549925828c564b91f2
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wordBubbles_36
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1493
+        width: 361
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099cf18a7e8a9d148be59300ab15fda6
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wordBubbles_39
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1151
+        width: 344
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aef65686a0120b47886cda9cc52177f
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wordBubbles_40
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1136
+        width: 342
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a344b2dc1eab1649b94191d09caa70c
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wordBubbles_41
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1141
+        width: 421
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ab6130f40493b47a1366a2c89c61ba
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9f34826e39b6e3d469358ef4fc1ef3be
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

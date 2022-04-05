@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: 1d0965cc82faf134282a47907862dd02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SpeachBubble00
+  - first:
+      213: 21300002
+    second: SpeachBubble01
+  - first:
+      213: 21300004
+    second: SpeachBubble02
+  - first:
+      213: 21300006
+    second: ComicFramHorizontal
+  - first:
+      213: 21300008
+    second: SpeachBubbleInside00
+  - first:
+      213: 21300010
+    second: SpeachBubbleInside01
+  - first:
+      213: 21300012
+    second: SpeachBubbleInside02
+  - first:
+      213: 21300014
+    second: SpeechBubbleConnectorLong
+  - first:
+      213: 21300016
+    second: SpeechBubbleConnectorShort
+  - first:
+      213: 21300018
+    second: SpeechBubblePointLong
+  - first:
+      213: 21300020
+    second: SpeechBubblePointShort
+  - first:
+      213: 21300022
+    second: ComicFrameVertical
+  - first:
+      213: 21300024
+    second: speechBubble00
+  - first:
+      213: 21300026
+    second: speechBubble01
+  - first:
+      213: 21300028
+    second: speechBubble02
+  - first:
+      213: 21300030
+    second: comicFrameHorizontal
+  - first:
+      213: 21300032
+    second: speechBubbleInside00
+  - first:
+      213: 21300034
+    second: speechBubbleInside01
+  - first:
+      213: 21300036
+    second: speechBubbleInside02
+  - first:
+      213: 21300038
+    second: speechBubbleConnectorLong
+  - first:
+      213: 21300040
+    second: speechBubbleConnectorShort
+  - first:
+      213: 21300042
+    second: speechBubbleArrowLong
+  - first:
+      213: 21300044
+    second: speechBubbleArrowShort
+  - first:
+      213: 21300046
+    second: comicFrameVertical
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: speechBubble00
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 396
+        width: 93
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb705f2e1c1f5a046b13bcdc3f6f9166
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speechBubble01
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 392
+        width: 156
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd8f830ea098ac43b1d377d33d5e36a
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speechBubble02
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 387
+        width: 131
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1098c8bd41d65fa4ea03cbad40ccea3e
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comicFrameHorizontal
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 82
+        width: 27
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 4, z: 6, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f9fe07d1d68d14b8abb9541d691baf
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speechBubbleInside00
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 286
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75c5bb026b302e46883c8aad58e67c8
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speechBubbleInside01
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 284
+        width: 146
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161acc0b9ba9db0439c7a8a6bfac7bc7
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speechBubbleInside02
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 280
+        width: 121
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458a794fb6df8ec4cae18b902e158faa
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speechBubbleConnectorLong
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 109
+        width: 21
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db75133290933a4098f9a08ba37edcf
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speechBubbleConnectorShort
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 182
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d453b406ae1e564e9bfd701c0d0a2da
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speechBubbleArrowLong
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 128
+        width: 23
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f297955a89b9c34c9c71f1bfb4c67ee
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speechBubbleArrowShort
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 112
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cea4eee83b30c4e84116989b24b6bf
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: comicFrameVertical
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 39
+        width: 463
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 5, z: 5, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6533b8bddca25ac499c9452315e2ce40
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b2338f31f0d14cc42bddea9bcbfd1f34
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
